@@ -1,0 +1,204 @@
+{
+    "globalSections": {
+        "styles": {
+            "bg": "#000000",
+            "lang-select-color": "#222829",
+            "bg-light": "#000000",
+            "welcome-bonus-bg": "#000000",
+            "top-games-hover-fg": "#ffffff",
+            "main-bg": "#191919",
+            "text": "#ffffff",
+            "text-black": "#ffffff",
+            "table-head": "#FED22A",
+            "text-head": "#000000",
+            "hero-title-text": "#222829",
+            "welcome-bonus-text": "#FF4B32",
+            "yellow": "#FED22A",
+            "yellow-button": "#FF4B32",
+            "button-text": "#000000",
+            "main-button-text": "#000000",
+            "border-color": "#FED22A",
+            "casino-cards": "#000000",
+            "bonus-border-head": "#000000",
+            "bonus-border": "#FED22A",
+            "providers-back": "#000000",
+            "faq-label": "#000000",
+            "bg-footer": "#000000",
+            "copyright": "#e7e7d5",
+            "starColor": "#FED22A",
+            "baseFont": {
+                "value": "Roboto",
+                "isCustom": false
+            },
+            "primaryFont": {
+                "value": "Inter",
+                "isCustom": false
+            }
+        },
+        "icons": {
+            "icon192": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/3816"
+        },
+        "header": {
+            "logo": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/3819",
+            "imageSizeModifier": 0,
+            "imageYModifier": 0,
+            "imageXModifier": 0,
+            "logoAlt": "Zet Casino Logo"
+        },
+        "nav": {
+            "signUp": "Sign Up",
+            "playNow": "Play Now"
+        },
+        "footer": {
+            "logo": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/3820",
+            "imageSizeModifier": 0,
+            "imageYModifier": 0,
+            "imageXModifier": 0,
+            "copyright": "Zet Casino"
+        }
+    },
+    "pages": [
+        {
+            "id": "en-ca-en-CA",
+            "path": "\/",
+            "name": "Английский",
+            "languageCode": "en",
+            "regionCode": "CA",
+            "isDefault": true,
+            "sections": {
+                "seo": {
+                    "name": "Zet Casino",
+                    "title": "Zet Casino: 100% Bonus up to 750, 200 Free Spins, Bonus Crab & Fast Payouts",
+                    "description": "Play at Zet Casino with a massive slots and live tables library, a welcome package of 100% up to 750 + 200 free spins, Bonus Crab gamification, tournaments and leaderboards. A convenient cashier, clear terms, and responsible gaming tools.",
+                    "canonical": "zetspins-online.com",
+                    "ogImage": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/3821",
+                    "ogImageWidth": 1200,
+                    "ogImageHeight": 630,
+                    "twitterSite": "zetspins-online.com",
+                    "favicon": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/3822"
+                },
+                "hero": {
+                    "title": "Zet Casino — Slots, Live Games, Bonuses & Tournaments",
+                    "textDesktop": "Exclusive welcome offer of",
+                    "textMobile": "Exclusive welcome bonus of",
+                    "playGame": "Play game",
+                    "claimBonus": "Claim Bonus",
+                    "image": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/3829",
+                    "imageSizeModifier": 0,
+                    "imageYModifier": -4,
+                    "imageXModifier": 0,
+                    "mobileImage": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/3830",
+                    "mobileImageSizeModifier": -7,
+                    "mobileImageYModifier": 2,
+                    "mobileImageXModifier": 0
+                },
+                "topCasino": {
+                    "topCasinoButtonText": "Claim Bonus",
+                    "title": "Top Casinos",
+                    "allCasino": "All Casino",
+                    "welcomeBonusText": "Welcome bonus"
+                },
+                "bonusDetails": {
+                    "title": "Bonus Details",
+                    "getBonusButtonText": "Get Bonus",
+                    "maximumAmountText": "Maximum amount",
+                    "wagerText": "Wager",
+                    "bonusCodeText": "Bonus Code",
+                    "casino": "Casino",
+                    "bonuses": "Bonuses",
+                    "rate": "Rate",
+                    "freeSpins": "Free Spins",
+                    "moreInfo": "More Info",
+                    "get": "Get",
+                    "refresh": "Refresh"
+                },
+                "advantages": {
+                    "title": "Advantages",
+                    "advantagesBeforeText": "",
+                    "items": [
+                        "Thousands of slots and daily new releases",
+                        "Live casino with fast-paced tables 24\/7",
+                        "Welcome bonus: 100% up to 750",
+                        "200 free spins to kickstart play",
+                        "Bonus Crab: extra prizes and winnings",
+                        "Fast payouts with flexible cashier options",
+                        "Tournaments, missions, and activity rewards"
+                    ],
+                    "advantagesAfterText": "We deliver a smooth gaming experience focused on variety, clear reward mechanics, and convenience across devices. It’s easy to join, enjoyable to play, and simple to manage bonuses, stakes, and cashouts. We refresh promos and add entertainment regularly to keep every session exciting.\n",
+                    "knowMore": "Know more",
+                    "appTitle": "Zet Casino App",
+                    "mobile": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/3825",
+                    "imageSizeModifier": 0,
+                    "imageYModifier": 0,
+                    "imageXModifier": 0,
+                    "mobileAlt": "Zet Casino App",
+                    "mobileGooglePlayImageTitle": "Zet Casino App",
+                    "mobileIosImageTitle": "Zet Casino App"
+                },
+                "games": {
+                    "playNowText": "Play now",
+                    "title": "Popular Games",
+                    "allGames": "All Games"
+                },
+                "about": {
+                    "history": {
+                        "title": "About Zet Casino",
+                        "description1": "We stand out with gamification: Bonus Crab adds extra prizes. We focus on game variety and ongoing activities for more exciting sessions.\n",
+                        "items": [
+                            "Faster wins, steadier payouts.",
+                            "100% bonus up to 750.",
+                            "200 free spins to boost."
+                        ],
+                        "description2": "We built a space where it’s easy to start and where every player stays in control of balance, stakes, and bonuses. Our game lobby is designed for quick access to favorite slots, jackpots, and live tables without extra clicks. To begin, we offer a welcome package with bonus funds and free spins so you can explore different game styles right away. ",
+                        "image": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/3826",
+                        "imageSizeModifier": 0,
+                        "imageYModifier": 0,
+                        "imageXModifier": 0,
+                        "imageAlt": "History",
+                        "description3": "Inside the platform, you’ll regularly find themed events, seasonal activities, and special missions that turn a regular session into a clear reward journey. We run daily and weekly offers so there’s always extra value waiting for you. A key highlight is our Bonus Crab gamification, adding a fun “prize-chase” layer without complicated rules. In the live section, we focus on atmosphere and pace, making it easy to move between roulette, blackjack, and baccarat while choosing a table that fits your style and budget. Slot lovers can use curated collections by volatility, features, and popular providers to match their preferences. For competitive players, we host tournaments and leaderboards where gameplay converts into points and prizes. Our bonus system is built for clarity, letting you track credits, terms, and wagering progress right in your account. Our loyalty program rewards consistent play with growing privileges and tailored offers. As your status rises, you unlock additional benefits—from boosted rewards to more flexible limits and priority support. We pay special attention to mobile convenience so you can enjoy smooth sessions anywhere. Our cashier supports widely used deposit and withdrawal options, with verification processes focused on safety and efficient transactions. We promote responsible play by offering limits and self-control tools that help keep the experience enjoyable. Our support team is there at every step—from sign-up to withdrawals and bonus use. Overall, you get a clear, engaging experience where entertainment, promotions, and loyalty work together seamlessly."
+                    }
+                },
+                "custom": {
+                    "customHtml": {
+                        "title": "Zet Casino: your comfort — rules, security, support",
+                        "description": "<h3 style = \"font-weight: bold;font-size: 32px;\">\nVisiting Rules & Responsible Play — how to stay comfortable and safe\n\n<\/h3>\n\n<p>\nWe follow clear rules to keep gameplay fair, calm, and convenient for every player. Access is provided to adults only, and age may be verified as part of standard checks. We ask you to enter accurate personal details during registration because it speeds up withdrawals and protects your account. On your first withdrawal or when changing payment details, we may request verification documents—this is part of keeping transactions safe. We support responsible gaming and provide self-control tools so you can manage time and budget. Any attempts to cheat, use stolen data, or undermine game integrity are strictly prohibited. We do not allow software tampering, bots, or any method that could influence outcomes. One account is intended for one person, ensuring correct bonus crediting and transparency. We reserve the right to restrict access in case of rule violations to protect our player community. Before using bonuses, it’s important to read wagering terms and eligible games so withdrawals remain predictable. We encourage balanced sessions and recommend viewing gaming as entertainment, not a financial strategy. If you feel your control slipping, use limits and breaks—we provide the tools.\n\n<\/p>\n<br>\n\n\n\n<h4 style = \"font-weight: bold; font-size: 24px;\">\nEntry & participation conditions\n\n\n<\/h4>\n\n <ul>\n            <li>• \nAge & access: adults only; age verification may be required.\n\n<\/li>\n            <li>• \nRegistration: use real details matching your payment method.\n\n<\/li>\n            <li>• \nVerification (KYC): may be requested before withdrawals or in unusual cases.\n\n<\/li>\n            <li>• \nAvailability: certain features can depend on local restrictions and payment providers.\n\n\n<\/li>\n\n        <\/ul><br>\n\n<h4 style = \"font-weight: bold; font-size: 24px;\">\nProhibited actions\n\n\n<\/h4>\n\n <ul>\n            <li>• \nMultiple accounts: not allowed, including third-party registrations.\n\n<\/li>\n            <li>• \nFraud & abuse: chargeback abuse, data manipulation, use of someone else’s cards are forbidden.\n\n<\/li>\n            <li>• \nTechnical interference: bots, scripts, client\/browser tampering, hacking attempts are prohibited.\n\n<\/li>\n            <li>• \nBonus misuse: schemes designed to bypass bonus terms are not allowed.\n\n\n<\/li>\n\n        <\/ul><br>\n\n\n<h4 style = \"font-weight: bold; font-size: 24px;\">\nResponsible play\n\n\n<\/h4>\n\n <ul>\n            <li>• \nLimits: set deposit, stake, and time limits.\n\n<\/li>\n            <li>• \nBreaks: use time-outs to stay in control.\n\n<\/li>\n            <li>• \nSelf-exclusion: long-term account blocking is available when needed.\n\n<\/li>\n            <li>• \nSupport: contact our team to activate restrictions.\n\n<\/li>\n\n        <\/ul><br>\n\n\n<h3 style = \"font-weight: bold;font-size: 32px;\">\nLicensing & Security: how we protect your data and gameplay\n\n<\/h3>\n\n<p>\nWe operate with compliance and clear rules so you understand the conditions of play and how your account is protected. Licensing details and the operator’s legal information are always shown in our terms and informational sections. We follow standard identification and verification practices to protect players and prevent unauthorized activity. This approach supports accurate withdrawals and safeguards against fraud attempts. We continually refine internal procedures to keep security and responsible play at a high level.\n\n<\/p>\n<br>\n\n\n<p>\nAt the data-transmission level, we use modern connection encryption so logins, passwords, and payment details stay shielded from third parties. Communication protection is implemented through TLS\/SSL, and sensitive data is processed under a “minimum necessary access” principle. We rely on a multi-layer security architecture combining access control, monitoring, and logging. This reduces unauthorized access risks and helps detect suspicious activity quickly. We also support protections against password brute force and automated attacks.\n\n<\/p>\n<br>\n<p>\nFor data storage, we use segmentation, permission limits, and secure administration procedures. Personal information is accessible only to employees and systems that need it for account service and withdrawals. We apply leak-prevention measures through internal data-handling policies and technical controls. If anomalies are detected, we may temporarily pause transactions for additional checks to keep funds safe. This is a protective measure designed to keep your account secure.\n\n<\/p>\n<br>\n<p>\nOur privacy policy explains what data we collect, why it’s needed, and how long it’s retained. Typically, this includes information required for registration, security, financial operations, and service improvements. We don’t sell personal data and use it only to provide services, prevent violations, and complete required checks. You can request updates to key details if they change to avoid verification delays. We also recommend strong passwords and never sharing account access with third parties.\n\n<\/p>\n<br>\n<p>\nPayment safety is supported by KYC\/AML practices that confirm identity and transaction legitimacy as part of standard checks. This keeps withdrawals predictable and strengthens trust in financial procedures. We support “clean” transactions—payments should be made by the account owner and match profile details. For extra protection, we may request proof of the payment method on first withdrawal or for higher amounts. The result is a controlled environment where data and funds security remains a priority.\n\n<\/p>\n<br>\n\n\n\n<h3 style = \"font-weight: bold;font-size: 32px;\">\nDeposits & Withdrawals: methods, timelines, and limits\n\n<\/h3>\n\n<p> \nWe designed our cashier to make deposits fast and withdrawals confident and straightforward. Deposit options are selected to support familiar payment methods along with modern digital solutions. All transactions run over secure connections, and payment confirmations help prevent unauthorized charges. In most cases, deposits arrive almost instantly so you can start playing without delays. Withdrawals are requested from your account and go through a processing stage that considers security, correct details, and verification requirements. Payout speed depends on the method, amount, and your verification status. We aim to process requests quickly and show clear statuses for every transaction. If it’s your first withdrawal, completing your profile and preparing documents early can make the process even smoother. When available, we support withdrawals back to the same method used for deposits. If needed, we offer alternative options to keep cashouts convenient. Limits and statuses remain transparent so you can see restrictions by method and account level. The result is a secure financial flow with predictable timelines.\n\n<\/p><br>\n\n<table style=\"width: 100%; border-collapse: collapse; margin: 20px auto; font-family: sans-serif; color: #ffffff;font-size:14px\">\n  <thead>\n    <tr style=\"background-color:#FED22A;\">\n      <th style=\"border: 1px solid #ffffff; padding: 12px; text-align: left; color:#000000; font-weight: bold;\">Method<\/th>\n      <th style=\"border: 1px solid #ffffff; padding: 12px; text-align: left; color: #000000; font-weight: bold;\">Deposit speed<\/th>\n      <th style=\"border: 1px solid #ffffff; padding: 12px; text-align: left; color: #000000; font-weight: bold;\">Payout after approval<\/th>\n    <\/tr>\n  <\/thead>\n  <tbody>\n    <tr >\n      <td style=\"border: 1px solid #ffffff; padding: 10px;\"><strong>Interac e‑Transfer<\/strong><\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 10px;\">Instant – 15 minutes<\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 10px;\">0–24 hours<\/td>\n    <\/tr>\n    <tr>\n      <td style=\"border: 1px solid #ffffff; padding: 10px;\"><strong>Visa \/ Mastercard<\/strong><\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 10px;\">Instant – 15 minutes<\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 10px;\">1–3 business days<\/td>\n    <\/tr>\n    <tr>\n      <td style=\"border: 1px solid #ffffff; padding: 10px;\"><strong>E‑wallets (Skrill \/ Neteller \/ MiFinity)<\/strong><\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 10px;\">Instant – 15 minutes<\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 10px;\">0–24 hours<\/td>\n    <\/tr>\n    <tr>\n      <td style=\"border: 1px solid #ffffff; padding: 10px;\"><strong>Bank transfer<\/strong><\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 10px;\">1–2 business days<\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 10px;\">2–5 business days<\/td>\n    <\/tr>\n    <tr >\n      <td style=\"border: 1px solid #ffffff; padding: 10px;\"><strong>Crypto (BTC \/ ETH \/ LTC \/ USDT, etc.)<\/strong><\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 10px;\">5–30 minutes<\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 10px;\">10–60 minutes<\/td>\n    <\/tr>\n\n    <tr >\n      <td style=\"border: 1px solid #ffffff; padding: 10px;\"><strong>Prepaid vouchers (e.g., Paysafecard)<\/strong><\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 10px;\">Instant<\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 10px;\">Typically not for withdrawals<\/td>\n    <\/tr>\n      <\/tbody>\n<\/table>\n<br>\n\n<h4 style = \"font-weight: bold; font-size: 24px;\">\nMinimum withdrawal & maximum limits\n\n\n<\/h4>\n\n <ul>\n            <li>• \nMinimum withdrawal: from 10–20 (depends on method and account currency).\n\n<\/li>\n            <li>• \nDaily maximum: up to 5,000–10,000 (depends on method, status, and account level).\n\n<\/li>\n            <li>• \nMonthly maximum: up to 7,000–20,000 (increases with higher levels and account history).\n\n<\/li>\n\n        <\/ul><br>\n\n\n\n<h3 style = \"font-weight: bold;font-size: 32px;\">\nCustomer Support: fast replies and help at every step\n\n<\/h3>\n\n<p>\nWe built support so you can get help exactly when needed—during registration, deposits, gameplay, or withdrawals. The fastest channel is live chat, where we assist in real time. For requests that need details and attachments, email is ideal—this helps us verify documents and transaction statuses efficiently. For cases where speed matters or step-by-step guidance is preferred, we also support phone assistance—via a support line or a callback option when available in your account. We focus on clear, actionable answers so you don’t need repeated contacts. Chat typically resolves common issues in one touch: access recovery, bonus terms, and cashier navigation. Email support covers more complex topics, including identity verification and payment-detail updates. Service quality for us means not only speed but clarity—we explain steps so you can complete them without mistakes. We also help set responsible gaming limits and restrictions upon request. Our team prioritizes respectful communication and data confidentiality. We support multiple interface and communication languages for comfort. The result is support that doesn’t just respond—it helps you reach a solution.\n\n<\/p>\n<br>\n\n\n\n<h4 style = \"font-weight: bold; font-size: 24px;\">\nContact channels\n\n\n<\/h4>\n\n <ul>\n            <li>• \nLive chat: quick help with account, bonuses, games, and cashier.\n\n<\/li>\n            <li>• \nEmail: detailed requests, verification, documents, and disputes.\n\n<\/li>\n            <li>• \nPhone\/callback: step-by-step guidance and urgent questions (when available).\n\n\n<\/li>\n\n        <\/ul><br>\n\n<h4 style = \"font-weight: bold; font-size: 24px;\">\nResponse time & service quality\n\n\n<\/h4>\n\n <ul>\n            <li>• \nChat: usually within minutes during active hours.\n\n<\/li>\n            <li>• \nEmail: typically within 24 hours; complex checks follow processing timelines.\n\n<\/li>\n            <li>• \nPhone: by line schedule or callback request.\n\n<\/li>\n\n        <\/ul><br>\n\n\n<h4 style = \"font-weight: bold; font-size: 24px;\">\nLanguage availability\n\n\n<\/h4>\n\n <ul>\n            <li>• \nCore communication: English plus additional options based on profile settings.\n\n<\/li>\n            <li>• \nWritten support: you can specify your preferred language in the request.\n\n\n<\/li>\n\n        <\/ul><br>\n\n"
+                    }
+                },
+                "softwareProviders": {
+                    "title": "Software Providers"
+                },
+                "custom_2": {
+                    "customHtml_2": {
+                        "title": "Entertainment and Gaming at Zet Casino",
+                        "description": "<h3 style = \"font-weight: bold;font-size: 32px;\">\nLoyalty Program: levels, perks, and rewards for activity\n\n<\/h3>\n<p>\nOur loyalty program is built for players who want more from every session—not only entertainment but real privileges. You join automatically after registration, and your status grows with gameplay activity. The more you play, the more bonuses and personalized options unlock in your account. We award points for wagering in most eligible games, and your progress is shown clearly so you always know how close you are to the next tier. Higher tiers unlock boosted offers such as extra free spins, increased cashback, and special deposit bonuses. We also improve financial flexibility by expanding limits and enabling smoother withdrawal scenarios. Priority support helps resolve questions about payouts, bonuses, and account settings faster. The program rewards consistency with weekly perks, personal missions, and invitations to closed events. We aim for perks you feel regularly—through bonuses, tournaments, and tailored offers. We also love gamification: features like Bonus Crab make the journey more engaging. Overall, loyalty becomes a clear system where your activity is rewarded consistently.\n\n<\/p>\n<br>\n\n\n\n<h4 style = \"font-weight: bold; font-size: 24px;\">\nHow to join\n\n\n<\/h4>\n\n <ul>\n            <li>• \nAuto-enrollment: participation starts automatically after account creation.\n\n<\/li>\n            <li>• \nProfile: complete key details to receive personalized offers faster.\n\n<\/li>\n            <li>• \nVerification: recommended early for full access to advanced perks.\n\n<\/li>\n            <li>• \nPoints: points are earned from wagering in eligible games (shown in-account).\n\n\n<\/li>\n\n        <\/ul><br>\n\n<h4 style = \"font-weight: bold; font-size: 24px;\">\nTiers and how to reach them\n\n\n<\/h4>\n\n <ul>\n            <li>• \nAlpha: starting tier after registration and first wagers.\n\n<\/li>\n            <li>• \nBeta: earned through steady, regular play.\n\n<\/li>\n            <li>• \nGamma: unlocked with higher activity and event participation.\n\n<\/li>\n            <li>• \nDelta: for frequent, highly active play.\n\n<\/li>\n\t    <li>• \nZeta: top tier with expanded perks and personalized conditions.\n\n\n<\/li>\n        <\/ul><br>\n\n\n<h4 style = \"font-weight: bold; font-size: 24px;\">\nPerks & bonuses\n<\/h4>\n\n <ul>\n            <li>• \nTier cashback: 5% to 15% for selected games\/timeframes.\n\n<\/li>\n            <li>• \nReload bonuses: 25% to 50% in personalized offers.\n\n<\/li>\n            <li>• \nFree spins: packs from 20 to 200 based on activity and events.\n\n<\/li>\n            <li>• \nExclusive missions: fixed bonus amounts or free spins for tasks.\n\n<\/li>\n\t    <li>• \nPriority support: faster handling for cashier and account matters.\n\n<\/li>\n\t    <li>• \nHigher limits: monthly payout limits grow into a 7,000–20,000 range by tier.\n\n<\/li>\n\t    <li>• \nEvent gifts: birthday bonuses and seasonal surprises by status.\n\n\n<\/li>\n        <\/ul><br>\n\n\n<h3 style = \"font-weight: bold;font-size: 32px;\">\nBonuses & Promotions: winnings, offers, and game events\n\n<\/h3>\n\n<p>\nWe love when gameplay has momentum and bonuses deliver clear, real value. That’s why we maintain a promo lineup that suits quick sessions and long-term play with visible progress. Starting is easy with our welcome package: a deposit bonus plus free spins helps you ramp up and explore different slots. After that, regular promos kick in—daily gifts, missions, and themed weeks that reward your activity. We also run seasonal events that add a story-like feel with special tasks, boosted prizes, and limited-time free spin bundles. Competitive players can join tournaments and leaderboards where points turn into prizes. We often make breaks more rewarding with cashback offers in selected categories or comeback bonuses after time away. Players who enjoy variety can benefit from provider-focused promos where certain slot series earn more points or extra rewards. Bonus Crab adds a fun “catch the prize” mechanic that pairs perfectly with free spins and missions. We also run timed drops—prizes that can trigger during play once simple conditions are met. For the live section, we feature separate offers like table bonuses, session cashback, and themed live nights. Every promotion is presented with clear terms so you can see duration, limits, and progress in your account. We aim for winnings you feel not only in lucky spins but also through bonus value: more chances and more rewards for activity. Promotions rotate regularly, so there’s always something that matches your style. We also create “light” promos—short tasks with quick rewards for shorter sessions. Overall, you always have options: boost a deposit, play free spins, join an event, or climb the leaderboard.\n\n<\/p>\n<br>\n\n\n\n<h4 style = \"font-weight: bold; font-size: 24px;\">\nPromos & special offers\n<\/h4>\n\n <ul>\n            <li>• \nWelcome bonus: 100% up to 750 + 200 free spins for a strong start.\n\n<\/li>\n            <li>• \nBonus Crab: extra prizes (free spins\/bonus\/cash rewards) via gamification.\n\n<\/li>\n            <li>• \nReload bonus: 25%–50% deposit boost for regular play.\n\n<\/li>\n            <li>• \nCashback promos: 5%–15% back in selected timeframes for longer sessions.\n\n<\/li>\n\t    <li>• \nSlot tournaments: prize pools and rewards via points—competitive format.\n\n<\/li>\n\t    <li>• \nGame leaderboards: prizes based on ranking—more activity, higher chance.\n\n<\/li>\n\t    <li>• \nSeasonal events: limited 50–200 free spins bundles and boosted missions.\n\n<\/li>\n\t    <li>• \nDaily missions: spin\/wager tasks with quick rewards and clear progress.\n\n<\/li>\n\t    <li>• \nProvider weeks: extra points\/rewards on selected titles and series.\n\n<\/li>\n\t    <li>• \nLive offers: cashback and table bonuses for dealer-led sessions.\n\n\n<\/li>\n        <\/ul><br>\n\n<h3 style = \"font-weight: bold;font-size: 32px;\">\nGames in our casino: slots, live, and fast formats\n\n<\/h3>\n\n<p>\nWe curated our game library so you can pick the mood and pace of every session—from relaxed slots to high-energy live action. In our slots section, you’ll find classics, modern video slots, and feature-rich titles where multipliers and bonus rounds can boost results. For bigger targets, jackpot games and progressive networks are available, where prize totals can grow with player wagering. Live casino brings the real-table atmosphere: you see the dealer, join rounds, and place bets through a clean interface. We support multiple roulette styles, blackjack, and baccarat so you can choose rules and limits that suit you. For variety, we include fast games where rounds take seconds and outcomes arrive instantly. Our lobby helps you discover new releases, trending titles, and curated collections—by volatility or bonus frequency, for example. We focus on mobile optimization so games launch quickly with minimal steps. Many games include useful stats, bet history, and clear feature hints. We also connect gameplay with activities: missions, tournaments, and leaderboards add extra excitement. This way, you’re not just spinning—you’re progressing toward rewards. Overall, it’s easy to find a perfect fit, from timeless classics to modern show-style formats.\n\n<\/p>\n<br>\n\n\n\n<h4 style = \"font-weight: bold; font-size: 24px;\">\nCore game categories\n\n\n<\/h4>\n\n <ul>\n            <li>• \nSlots: classic, video slots, Megaways formats, multipliers, bonus rounds.\n\n<\/li>\n            <li>• \nJackpots: progressive games and networks with growing prize pools.\n\n<\/li>\n            <li>• \nLive casino: roulette, blackjack, baccarat, dealer-led game shows.\n\n<\/li>\n            <li>• \nRNG tables: digital classic tables with a steady pace.\n\n<\/li>\n\t    <li>• \nFast games: instant rounds and dynamic mechanics for short sessions.\n\n\n<\/li>\n        <\/ul><br>\n\n\n\n<h3 style = \"font-weight: bold;font-size: 32px;\">\nMinimum & Maximum Bets: flexible limits for any strategy\n\n<\/h3>\n\n<p> \nWe support a wide betting range so both careful players and high-tempo risk-takers feel comfortable. Limits vary by game, provider, and table, and you always see the current values directly in the interface before placing a bet. This helps you plan bankroll, manage risk, and choose the format that fits your approach. Below is a convenient overview of typical ranges across key categories.\n<\/p><br>\n\n<table style=\"width: 100%; border-collapse: collapse; margin: 20px auto; font-family: sans-serif; color: #ffffff;\">\n  <thead>\n    <tr style=\"background-color: #FED22A;\">\n      <th style=\"border: 1px solid #ffffff; padding: 12px; text-align: left; color: #000000; font-weight: bold;\">Game Type<\/th>\n      <th style=\"border: 1px solid #ffffff; padding: 12px; text-align: left; color: #000000; font-weight: bold;\">Min Bet<\/th>\n      <th style=\"border: 1px solid #ffffff; padding: 12px; text-align: left; color: #000000; font-weight: bold;\">Max Bet<\/th>\n    <\/tr>\n  <\/thead>\n  <tbody>\n    <tr >\n      <td style=\"border: 1px solid #ffffff; padding: 10px;\"><strong>Slots (RNG)<\/strong><\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 10px;\">0.10<\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 10px;\">100<\/td>\n    <\/tr>\n    <tr>\n      <td style=\"border: 1px solid #ffffff; padding: 10px;\"><strong>Jackpot slots<\/strong><\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 10px;\">0.20<\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 10px;\">200<\/td>\n    <\/tr>\n    <tr>\n      <td style=\"border: 1px solid #ffffff; padding: 10px;\"><strong>Roulette (RNG)<\/strong><\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 10px;\">0.50<\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 10px;\">1,000<\/td>\n    <\/tr>\n    <tr>\n      <td style=\"border: 1px solid #ffffff; padding: 10px;\"><strong>Blackjack (RNG)<\/strong><\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 10px;\">1<\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 10px;\">500<\/td>\n    <\/tr>\n    <tr >\n      <td style=\"border: 1px solid #ffffff; padding: 10px;\"><strong>Baccarat (RNG)<\/strong><\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 10px;\">1<\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 10px;\">1,000<\/td>\n    <\/tr>\n    <tr>\n      <td style=\"border: 1px solid #ffffff; padding: 10px;\"><strong>Live roulette<\/strong><\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 10px;\">0.50<\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 10px;\">10,000<\/td>\n    <\/tr>\n  \n    <tr>\n      <td style=\"border: 1px solid #ffffff; padding: 10px;\"><strong>Live blackjack<\/strong><\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 10px;\">1<\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 10px;\">5,000<\/td>\n    <\/tr>\n    <tr>\n      <td style=\"border: 1px solid #ffffff; padding: 10px;\"><strong>Live baccarat<\/strong><\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 10px;\">1<\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 10px;\">10,000<\/td>\n    <\/tr>\n    <tr>\n      <td style=\"border: 1px solid #ffffff; padding: 10px;\"><strong>Fast games<\/strong><\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 10px;\">0.10<\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 10px;\">1,000<\/td>\n    <\/tr>\n  <\/tbody>\n<\/table>\n<br>\n\n\n<h3 style = \"font-weight: bold;font-size: 32px;\">\nTournaments & Leaderboards: how to join, earn points, and claim prizes\n\n<\/h3>\n\n<p>\nWe run tournaments and leaderboards so your activity turns into clear progress and real rewards. Participation is often automatic: choose a tournament-eligible game or category, start playing, and points are credited according to the event rules. Most tournaments measure total activity—number of spins, wager amount, or a combination—so consistent play is rewarded. Some formats emphasize speed, where points depend on activity within a limited timeframe, giving fast sessions an edge. We display your current result and ranking so you can track your chances in real time. Points are credited only within eligible games, and exceptions or multipliers are always listed in tournament terms. When the event ends, prizes are distributed by rank or by reaching point thresholds. Prize delivery is usually automatic to your balance or as a bonus, and sometimes requires confirming in the promotions section. For fairness, we record point history and protect tournament mechanics from abusive behavior. You can pick a format that suits you: a short sprint or a weekly marathon. Overall, tournaments add goals, competition, and extra rewards for performance.\n\n<\/p>\n<br>\n\n\n\n<h4 style = \"font-weight: bold; font-size: 24px;\">\nQuick tips\n\n\n<\/h4>\n\n <ul>\n            <li>• \nHow points are earned: bet size, number of spins, activity within the period, sometimes game multipliers.\n\n<\/li>\n            <li>• \nWhat counts: only games listed in the tournament; different modes may have different multipliers.\n\n<\/li>\n            <li>• \nHow to track rank: in your account and the leaderboard during the event.\n\n<\/li>\n            <li>• \nHow to claim prizes: usually automatic to balance\/bonus; sometimes via “Promotions” confirmation.\n\n<\/li>\n\t    <li>• \nParticipation tip: choose games with a comfortable pace and watch the event timer to maximize points.\n\n\n<\/li>\n        <\/ul><br>\n\n\n\n"
+                    }
+                },
+                "faq": {
+                    "title": "Frequently Asked Questions",
+                    "items": [
+                        {
+                            "title": "Can free spins be credited in parts?",
+                            "answer": "Yes, some offers deliver free spins in scheduled batches—this is clearly shown in the promo description.\n\n\n"
+                        },
+                        {
+                            "title": "What is Bonus Crab and how does it work?",
+                            "answer": "It’s a prize-based gamification feature: meet promo conditions and get a chance to “catch” extra rewards.\n\n\n"
+                        },
+                        {
+                            "title": "How do I enable responsible gaming limits?",
+                            "answer": "Account settings include deposit, stake, and time limits; our support team can help if needed.\n\n\n"
+                        },
+                        {
+                            "title": "How can I track loyalty progress?",
+                            "answer": "Your profile section shows your current tier, points, and the steps to the next level.\n\n\n"
+                        },
+                        {
+                            "title": "Can I join multiple tournaments at the same time?",
+                            "answer": "Yes—if tournament rules don’t conflict, you can earn points across different events in parallel.\n\n\n"
+                        }
+                    ]
+                }
+            }
+        }
+    ]
+}
